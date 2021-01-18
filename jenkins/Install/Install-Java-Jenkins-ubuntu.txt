@@ -1,3 +1,5 @@
+sudo apt install software-properties-common
+
 Install JAVA
  
 	sudo add-apt-repository ppa:openjdk-r/ppa
